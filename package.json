@@ -2,7 +2,7 @@
   "homepage": "https://cindy15069.github.io/cindy-project",
   "name": "cindy-project",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
